@@ -1,0 +1,7 @@
+.qodoo
+.qodoo/
+.qodoo/node_modules/
+.qodoo/dist/
+.qodoo/build/
+.qodoo/coverage/
+.qodoo/logs/
